@@ -1,1 +1,1 @@
-# -EEG-Based-Motor-Imagery-Decoding-with-Deep-Learning
+# EEG-Based-Motor-Imagery-Decoding-with-Deep-Learning
